@@ -100,5 +100,5 @@ The platform provides a smooth shopping experience with product browsing, cart m
 ## 🎥 Project Demo Video
 
 👉 **Demo Video Link:**  
-[Click here to watch the project demo]([https://your-demo-video-link-here](https://drive.google.com/file/d/1uUOKw2dUJTB_kpdYiThZaZLdIhJNmY6u/view?usp=drive_link))
+[Click here to watch the project demo](https://drive.google.com/file/d/1uUOKw2dUJTB_kpdYiThZaZLdIhJNmY6u/view?usp=drive_link)
 
