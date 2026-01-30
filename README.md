@@ -49,20 +49,20 @@ CASHFREE_ENV=PRODUCTION
 
 ## 🧱 Tech Stack
 
-**Frontend**
+### Frontend
 - CSS3 / Tailwind CSS  
 - JavaScript  
-- React
+- React  
 
-**Backend (if applicable)**
+### Backend
 - Node.js  
 - Express.js  
 
-**Database (if applicable)**
-- MongoDB
+### Database
+- MongoDB  
 
-**Payments**
-- Integrated payment gateway (test mode)
+### Payments
+- Cashfree Payment Gateway (Test / Production)
 
 ---
 
@@ -81,9 +81,9 @@ CASHFREE_ENV=PRODUCTION
 
 ## ⚙️ How to Run the Project Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+Clone the repository:
+```bash
+git clone https://github.com/your-username/your-repo-name.git
 
 2. Navigate to the project folder:
    ```bash
