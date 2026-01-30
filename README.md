@@ -75,15 +75,15 @@ The platform provides a smooth shopping experience with product browsing, cart m
    git clone https://github.com/your-username/your-repo-name.git
 
 2. Navigate to the project folder:
-```bash
-cd luxe-haven
+   ```bash
+   cd luxe-haven
 
 3. Install Dependencies:
-```bash
-npm install
+   ```bash
+   npm install
 
 4. Start the development server:
-```bash
-npm start
+   ```bash
+  npm start
 
 
