@@ -7,15 +7,8 @@ export function HeroSection() {
   const [, setSearchParams] = useSearchParams();
 
   const handleExploreCollection = () => {
-    // Navigate to show all products
-    setSearchParams((prev) => {
-      const newParams = new URLSearchParams(prev);
-      newParams.delete("category");
-      newParams.delete("search");
-      newParams.delete("id");
-      newParams.delete("view");
-      return newParams;
-    });
+    // Navigate to collections page
+    setSearchParams({ view: "collections" });
   };
 
   const handleViewNewArrivals = () => {

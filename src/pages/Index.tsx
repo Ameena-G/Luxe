@@ -30,6 +30,8 @@ const Index = () => {
           <CartPage />
         ) : view === "wishlist" ? (
           <WishlistPage />
+        ) : view === "collections" ? (
+          <FeaturedCategories />
         ) : productId ? (
           <ProductDetail />
         ) : category || search ? (
