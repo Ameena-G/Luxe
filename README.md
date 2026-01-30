@@ -53,8 +53,6 @@ The platform provides a smooth shopping experience with product browsing, cart m
 
 ---
 
----
-
 ## 🖥️ Pages Included
 
 - Home  
@@ -84,6 +82,6 @@ The platform provides a smooth shopping experience with product browsing, cart m
 
 4. Start the development server:
    ```bash
-  npm start
+   npm start
 
 
