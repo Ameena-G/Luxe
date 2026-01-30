@@ -1,7 +1,6 @@
 # Luxe Haven – Luxury E-Commerce Website
 
-Luxe Haven is a modern, responsive **e-commerce website** designed for selling **luxury watches, handbags, and wallets**.  
-The platform provides a smooth shopping experience with product browsing, cart management, ordering, and secure payment integration.
+Luxe Haven is a modern, responsive **e-commerce website** designed for selling **luxury watches, handbags, and wallets**. The platform provides a smooth shopping experience with product browsing, cart management, ordering, and secure payment integration.
 
 ---
 
@@ -31,6 +30,19 @@ The platform provides a smooth shopping experience with product browsing, cart m
 - 📱 **Responsive Design**
   - Fully responsive layout
   - Works seamlessly on mobile, tablet, and desktop devices
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the **root directory** and add the following variables:
+
+```env
+MONGODB_URI=your_mongodb_connection_string
+PORT=4000
+CASHFREE_APP_ID=your_cashfree_app_id
+CASHFREE_SECRET_KEY=your_cashfree_secret_key
+CASHFREE_ENV=PRODUCTION
 
 ---
 
