@@ -1,6 +1,7 @@
 # Luxe Haven – Luxury E-Commerce Website
 
-Luxe Haven is a modern, responsive **e-commerce website** designed for selling **luxury watches, handbags, and wallets**. The platform provides a smooth shopping experience with product browsing, cart management, ordering, and secure payment integration.
+Luxe Haven is a modern, responsive **e-commerce website** designed for selling **luxury watches, handbags, and wallets**.  
+The platform provides a smooth shopping experience with product browsing, cart management, ordering, and secure payment integration.
 
 ---
 
