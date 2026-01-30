@@ -36,20 +36,20 @@ The platform provides a smooth shopping experience with product browsing, cart m
 
 ## 🔐 Environment Variables
 
-Create a `.env` file in the **root directory** and add the following variables:
+- Create a `.env` file in the **root directory** and add the following variables:
 
-```env
-MONGODB_URI=your_mongodb_connection_string
-PORT=4000
-CASHFREE_APP_ID=your_cashfree_app_id
-CASHFREE_SECRET_KEY=your_cashfree_secret_key
-CASHFREE_ENV=PRODUCTION
+   ```env
+   MONGODB_URI=your_mongodb_connection_string
+   PORT=4000
+   CASHFREE_APP_ID=your_cashfree_app_id
+   CASHFREE_SECRET_KEY=your_cashfree_secret_key
+   CASHFREE_ENV=PRODUCTION
 
 ---
 
 ## 🧱 Tech Stack
 
-### Frontend
+- ### Frontend
 - CSS3 / Tailwind CSS  
 - JavaScript  
 - React  
@@ -81,9 +81,9 @@ CASHFREE_ENV=PRODUCTION
 
 ## ⚙️ How to Run the Project Locally
 
-Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
 
 2. Navigate to the project folder:
    ```bash
